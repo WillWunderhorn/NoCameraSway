@@ -6,7 +6,7 @@ namespace NoCameraSway.src
 {
     class Implementation : MelonMod
     {
-        // пипи пупу
+        //
     }
 
     [HarmonyPatch(typeof(vp_FPSCamera), nameof(vp_FPSCamera.Start))]
