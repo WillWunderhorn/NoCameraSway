@@ -17,7 +17,7 @@ internal static class BuildInfo
     internal const string ModName = "NoCameraSway";
     internal const string ModAuthor = "LittleWolfStorm";
     internal const string OriginalAuthor = "WulfMarius";
-    internal const string ModVersion = "2.0.0";
+    internal const string ModVersion = "2.5.0";
 }
 
 
